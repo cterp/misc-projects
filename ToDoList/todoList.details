@@ -1,0 +1,6 @@
+---
+ name: To-Do List
+ description: User-defined list where it's possible to add and remove tasks.
+ author:
+   - C. H.
+ ...

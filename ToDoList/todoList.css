@@ -1,0 +1,22 @@
+h2 {
+    display: block;
+    font-size: 0.9em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: normal;
+}
+body {
+    font-family: Lucida Grande;
+}
+form {
+    font-size: 0.8em;
+}
+fieldset {
+    border:1px solid purple
+}
+legend {
+    padding: 0.2em 0.5em;
+    border:2px solid purple;
+}
